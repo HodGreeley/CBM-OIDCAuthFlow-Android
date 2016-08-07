@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OIDC Auth Flow</string>
+    <string name="auth_code_signin_button">Sign in with Auth Code Flow</string>
+    <string name="signout_button">Sign out</string>
+</resources>
